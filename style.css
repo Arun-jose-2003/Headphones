@@ -1,0 +1,80 @@
+
+*{
+    color: black;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    font-family: "Acme", sans-serif;
+  font-weight: 400;
+}.bannerwrite {
+    position: absolute;
+    top: 40%;
+    left: 7%;
+}
+.bannerwrite button{
+    border-radius: 50px;  
+}
+.bannerwrite p{
+    font-weight: bolder;
+    color: black;
+    font-size: larger;
+}
+.bannerwrite h1{
+    font-weight: bolder;
+    color: black;
+    font-size:69px;
+}
+
+.container button {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    border-radius: 50px;
+
+}
+
+
+.lern button {
+    position: absolute;
+    left: 70%;
+    border-radius: 100px;
+    margin-top: -40px;
+
+}
+
+.two {
+    font-size: larger;
+}
+
+.navbar{
+    background-color: rgba(244, 174, 10, 0.863);
+    
+}
+.title {
+    display: flex;
+}
+
+.title .num {
+
+    color: #fac769;
+    font-size: 80px;
+    font-weight: 650;
+}
+
+.title .heading {
+    position: absolute;
+    font-weight: 750;
+    margin-top: 46px;
+    margin-left: 4px;
+    font-size: 17px;
+
+}
+
+.card1 p{
+    margin-left: -98px;
+
+}
+.card1 a{
+    margin-left: -180px;
+    text-decoration: none;
+    color:#fac769;
+    
+}
